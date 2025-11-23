@@ -1,0 +1,1482 @@
+[
+    {
+        "file": "20240628-laporan-keuangan-publikasi-bulanan-mei-2024-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 5,
+            "month_name": "Mei",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "15.781.309",
+                "penempatan pada bank indonesia": "85.792.004",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "826.728.583",
+                "surat berharga yang dimiliki": "339.417.148",
+                "total aset": "1.364.424.856"
+            },
+            "liabilitas": {
+                "giro": "339.368.255",
+                "tabungan": "555.951.245",
+                "deposito": "198.996.060",
+                "total liabilitas": "1.138.386.239"
+            },
+            "ekuitas": {
+                "total ekuitas": "226.038.617"
+            },
+            "labarugi": {
+                "pendapatan bunga": "35.883.912",
+                "beban bunga": "4.886.957",
+                "pendapatan (beban) bunga bersih": "30.996.955",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "21.633.871"
+            }
+        }
+    },
+    {
+        "file": "20240815-Laporan-Keuangan-Publikasi-Bulanan-Juli-2024-ID.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 7,
+            "month_name": "Juli",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "17.606.658",
+                "penempatan pada bank indonesia": "63.188.492",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "832.340.650",
+                "surat berharga yang dimiliki": "392.645.390",
+                "total aset": "1.379.197.093"
+            },
+            "liabilitas": {
+                "giro": "344.494.469",
+                "tabungan": "559.846.571",
+                "deposito": "196.365.946",
+                "total liabilitas": "1.143.276.905"
+            },
+            "ekuitas": {
+                "total ekuitas": "235.920.188"
+            },
+            "labarugi": {
+                "pendapatan bunga": "50.686.416",
+                "beban bunga": "6.731.407",
+                "pendapatan (beban) bunga bersih": "43.955.009",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "31.396.033"
+            }
+        }
+    },
+    {
+        "file": "20240913-laporan-keuangan-publikasi-bulanan-agustus-2024-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 8,
+            "month_name": "Agustus",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "15.897.902",
+                "penempatan pada bank indonesia": "75.346.714",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "842.705.785",
+                "surat berharga yang dimiliki": "396.950.307",
+                "total aset": "1.400.604.114"
+            },
+            "liabilitas": {
+                "giro": "346.657.005",
+                "tabungan": "557.482.789",
+                "deposito": "198.144.531",
+                "total liabilitas": "1.159.841.409"
+            },
+            "ekuitas": {
+                "total ekuitas": "240.762.705"
+            },
+            "labarugi": {
+                "pendapatan bunga": "58.272.982",
+                "beban bunga": "7.725.753",
+                "pendapatan (beban) bunga bersih": "50.547.229",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "35.990.685"
+            }
+        }
+    },
+    {
+        "file": "20241115-laporan-keuangan-publikasi-bulanan-oktober-2024-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 10,
+            "month_name": "Oktober",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "16.751.646",
+                "penempatan pada bank indonesia": "66.289.727",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "858.062.031",
+                "surat berharga yang dimiliki": "384.848.032",
+                "total aset": "1.396.684.240"
+            },
+            "liabilitas": {
+                "giro": "346.257.258",
+                "tabungan": "556.849.107",
+                "deposito": "197.019.616",
+                "total liabilitas": "1.145.652.406"
+            },
+            "ekuitas": {
+                "total ekuitas": "251.031.834"
+            },
+            "labarugi": {
+                "pendapatan bunga": "73.365.224",
+                "beban bunga": "9.701.835",
+                "pendapatan (beban) bunga bersih": "63.663.389",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "46.226.027"
+            }
+        }
+    },
+    {
+        "file": "20241213-laporan-keuangan-publikasi-bulanan-november-2024-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 30,
+            "month": 11,
+            "month_name": "November",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "17.218.757",
+                "penempatan pada bank indonesia": "65.078.325",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "875.782.049",
+                "surat berharga yang dimiliki": "389.164.527",
+                "total aset": "1.415.407.416"
+            },
+            "liabilitas": {
+                "giro": "363.089.972",
+                "tabungan": "551.762.620",
+                "deposito": "194.607.210",
+                "total liabilitas": "1.166.218.740"
+            },
+            "ekuitas": {
+                "total ekuitas": "249.188.676"
+            },
+            "labarugi": {
+                "pendapatan bunga": "80.816.346",
+                "beban bunga": "10.659.079",
+                "pendapatan (beban) bunga bersih": "70.157.267",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "50.472.852"
+            }
+        }
+    },
+    {
+        "file": "20250214-laporan-keuangan-publikasi-bulanan-januari-2025-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 1,
+            "month_name": "Januari",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "19.564.378",
+                "penempatan pada bank indonesia": "72.248.416",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "893.025.912",
+                "surat berharga yang dimiliki": "371.503.194",
+                "total aset": "1.430.855.803"
+            },
+            "liabilitas": {
+                "giro": "361.773.050",
+                "tabungan": "563.284.937",
+                "deposito": "195.409.764",
+                "total liabilitas": "1.172.807.411"
+            },
+            "ekuitas": {
+                "total ekuitas": "258.048.392"
+            },
+            "labarugi": {
+                "pendapatan bunga": "7.726.284",
+                "beban bunga": "1.029.439",
+                "pendapatan (beban) bunga bersih": "6.696.845",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "4.726.267"
+            }
+        }
+    },
+    {
+        "file": "20250314-laporan-keuangan-publikasi-bulanan-februari-2025-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 28,
+            "month": 2,
+            "month_name": "Februari",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "17.805.971",
+                "penempatan pada bank indonesia": "60.689.534",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "900.659.693",
+                "surat berharga yang dimiliki": "379.390.897",
+                "total aset": "1.427.410.405"
+            },
+            "liabilitas": {
+                "giro": "352.911.075",
+                "tabungan": "568.596.812",
+                "deposito": "196.166.266",
+                "total liabilitas": "1.164.912.397"
+            },
+            "ekuitas": {
+                "total ekuitas": "262.498.008"
+            },
+            "labarugi": {
+                "pendapatan bunga": "14.868.070",
+                "beban bunga": "1.991.413",
+                "pendapatan (beban) bunga bersih": "12.876.657",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "8.975.717"
+            }
+        }
+    },
+    {
+        "file": "20250515-laporan-keuangan-publikasi-bulanan-april-2025-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 30,
+            "month": 4,
+            "month_name": "April",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "19.119.145",
+                "penempatan pada bank indonesia": "67.304.341",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "923.096.220",
+                "surat berharga yang dimiliki": "361.918.429",
+                "total aset": "1.456.437.422"
+            },
+            "liabilitas": {
+                "giro": "365.398.551",
+                "tabungan": "585.873.512",
+                "deposito": "196.483.336",
+                "total liabilitas": "1.213.453.222"
+            },
+            "ekuitas": {
+                "total ekuitas": "242.984.200"
+            },
+            "labarugi": {
+                "pendapatan bunga": "30.345.087",
+                "beban bunga": "4.080.280",
+                "pendapatan (beban) bunga bersih": "26.264.807",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "20.211.428"
+            }
+        }
+    },
+    {
+        "file": "20250613-laporan-keuangan-publikasi-bulanan-mei-2025-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 5,
+            "month_name": "Mei",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "20.997.013",
+                "penempatan pada bank indonesia": "64.259.791",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "924.262.398",
+                "surat berharga yang dimiliki": "369.825.188",
+                "total aset": "1.467.183.209"
+            },
+            "liabilitas": {
+                "giro": "380.484.410",
+                "tabungan": "580.096.776",
+                "deposito": "194.635.534",
+                "total liabilitas": "1.219.341.255"
+            },
+            "ekuitas": {
+                "total ekuitas": "247.841.954"
+            },
+            "labarugi": {
+                "pendapatan bunga": "38.295.167",
+                "beban bunga": "5.175.074",
+                "pendapatan (beban) bunga bersih": "33.120.093",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "25.162.919"
+            }
+        }
+    },
+    {
+        "file": "20250815-laporan-keuangan-publikasi-bulanan-juli-2025-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 7,
+            "month_name": "Juli",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "17.049.556",
+                "penempatan pada bank indonesia": "55.702.423",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "923.512.447",
+                "surat berharga yang dimiliki": "394.157.759",
+                "total aset": "1.466.750.654"
+            },
+            "liabilitas": {
+                "giro": "381.963.696",
+                "tabungan": "587.217.978",
+                "deposito": "192.874.323",
+                "total liabilitas": "1.208.995.963"
+            },
+            "ekuitas": {
+                "total ekuitas": "257.754.691"
+            },
+            "labarugi": {
+                "pendapatan bunga": "53.798.132",
+                "beban bunga": "7.246.524",
+                "pendapatan (beban) bunga bersih": "46.551.608",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "34.707.591"
+            }
+        }
+    },
+    {
+        "file": "20250915-laporan-keuangan-publikasi-bulanan-agustus-2025-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 8,
+            "month_name": "Agustus",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "16.440.985",
+                "penempatan pada bank indonesia": "56.832.717",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "920.872.163",
+                "surat berharga yang dimiliki": "401.055.641",
+                "total aset": "1.476.024.326"
+            },
+            "liabilitas": {
+                "giro": "390.069.489",
+                "tabungan": "579.228.625",
+                "deposito": "190.836.075",
+                "total liabilitas": "1.213.573.471"
+            },
+            "ekuitas": {
+                "total ekuitas": "262.450.855"
+            },
+            "labarugi": {
+                "pendapatan bunga": "61.382.110",
+                "beban bunga": "8.265.186",
+                "pendapatan (beban) bunga bersih": "53.116.924",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "39.058.614"
+            }
+        }
+    },
+    {
+        "file": "20251114-laporan-keuangan-publikasi-bulanan-oktober-2025-ind.pdf",
+        "source_folder": "bca",
+        "metadata": {
+            "company": "bca",
+            "day": 31,
+            "month": 10,
+            "month_name": "Oktober",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "16.710.700",
+                "penempatan pada bank indonesia": "56.474.834",
+                "kredit yang diberikan": null,
+                "kredit dan pembiayaan yang diberikan": "923.540.867",
+                "surat berharga yang dimiliki": "431.756.373",
+                "total aset": "1.498.655.101"
+            },
+            "liabilitas": {
+                "giro": "401.240.158",
+                "tabungan": "590.496.504",
+                "deposito": "187.942.297",
+                "total liabilitas": "1.226.872.798"
+            },
+            "ekuitas": {
+                "total ekuitas": "271.782.303"
+            },
+            "labarugi": {
+                "pendapatan bunga": "76.761.213",
+                "beban bunga": "10.285.607",
+                "pendapatan (beban) bunga bersih": "66.475.606",
+                "laba (rugi) bersih tahun berjalan": null,
+                "laba (rugi) bersih periode berjalan": "48.256.793"
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2024-01_New-SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 1,
+            "month_name": "Januari",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "10,058,387",
+                "penempatan pada bank indonesia": "75,990,415",
+                "kredit yang diberikan": "679,921,386",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "143,683,342",
+                "total aset": "1,023,753,695"
+            },
+            "liabilitas": {
+                "giro": "321,458,179",
+                "tabungan": "227,876,788",
+                "deposito": "226,024,180",
+                "total liabilitas": "876,295,337"
+            },
+            "ekuitas": {
+                "total ekuitas": "147,458,358"
+            },
+            "labarugi": {
+                "pendapatan bunga": "5,290,178",
+                "beban bunga": "2,169,859",
+                "pendapatan (beban) bunga bersih": "3,120,319",
+                "laba (rugi) bersih tahun berjalan": "1,485,136",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2024-02_New-SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 29,
+            "month": 2,
+            "month_name": "Februari",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "9,818,819",
+                "penempatan pada bank indonesia": "80,101,872",
+                "kredit yang diberikan": "673,520,608",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "144,574,061",
+                "total aset": "1,016,514,466"
+            },
+            "liabilitas": {
+                "giro": "307,235,625",
+                "tabungan": "228,449,837",
+                "deposito": "231,332,607",
+                "total liabilitas": "867,500,830"
+            },
+            "ekuitas": {
+                "total ekuitas": "149,013,636"
+            },
+            "labarugi": {
+                "pendapatan bunga": "10,201,085",
+                "beban bunga": "4,212,648",
+                "pendapatan (beban) bunga bersih": "5,988,437",
+                "laba (rugi) bersih tahun berjalan": "3,041,043",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2024-04_New SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 30,
+            "month": 4,
+            "month_name": "April",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "10,228,616",
+                "penempatan pada bank indonesia": "100,469,839",
+                "kredit yang diberikan": "702,166,747",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "145,536,742",
+                "total aset": "1,069,552,471"
+            },
+            "liabilitas": {
+                "giro": "339,540,456",
+                "tabungan": "236,100,661",
+                "deposito": "243,682,458",
+                "total liabilitas": "928,294,768"
+            },
+            "ekuitas": {
+                "total ekuitas": "141,257,703"
+            },
+            "labarugi": {
+                "pendapatan bunga": "20,760,731",
+                "beban bunga": "8,553,707",
+                "pendapatan (beban) bunga bersih": "12,207,024",
+                "laba (rugi) bersih tahun berjalan": "6,864,112",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2024-05_New SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 5,
+            "month_name": "Mei",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "10,298,454",
+                "penempatan pada bank indonesia": "75,384,450",
+                "kredit yang diberikan": "708,898,754",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "145,573,667",
+                "total aset": "1,039,547,954"
+            },
+            "liabilitas": {
+                "giro": "323,440,950",
+                "tabungan": "235,669,786",
+                "deposito": "229,347,033",
+                "total liabilitas": "895,902,564"
+            },
+            "ekuitas": {
+                "total ekuitas": "143,645,390"
+            },
+            "labarugi": {
+                "pendapatan bunga": "26,090,733",
+                "beban bunga": "10,808,621",
+                "pendapatan (beban) bunga bersih": "15,282,112",
+                "laba (rugi) bersih tahun berjalan": "8,569,285",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2024-07_New-SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 7,
+            "month_name": "Juli",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "9,741,324",
+                "penempatan pada bank indonesia": "58,881,410",
+                "kredit yang diberikan": "718,662,991",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "124,319,510",
+                "total aset": "1,020,251,617"
+            },
+            "liabilitas": {
+                "giro": "285,125,881",
+                "tabungan": "238,803,239",
+                "deposito": "213,580,147",
+                "total liabilitas": "872,458,230"
+            },
+            "ekuitas": {
+                "total ekuitas": "147,793,387"
+            },
+            "labarugi": {
+                "pendapatan bunga": "37,057,198",
+                "beban bunga": "14,879,270",
+                "pendapatan (beban) bunga bersih": "22,177,928",
+                "laba (rugi) bersih tahun berjalan": "12,517,913",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2024-08_New-SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 8,
+            "month_name": "Agustus",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "10,259,587",
+                "penempatan pada bank indonesia": "58,820,578",
+                "kredit yang diberikan": "710,480,019",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "128,855,358",
+                "total aset": "1,024,613,034"
+            },
+            "liabilitas": {
+                "giro": "283,144,939",
+                "tabungan": "239,565,154",
+                "deposito": "222,551,998",
+                "total liabilitas": "874,207,396"
+            },
+            "ekuitas": {
+                "total ekuitas": "150,405,638"
+            },
+            "labarugi": {
+                "pendapatan bunga": "42,466,240",
+                "beban bunga": "16,904,310",
+                "pendapatan (beban) bunga bersih": "25,561,930",
+                "laba (rugi) bersih tahun berjalan": "14,221,416",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2024-10_New-SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 10,
+            "month_name": "Oktober",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "10,258,376",
+                "penempatan pada bank indonesia": "52,314,760",
+                "kredit yang diberikan": "725,373,180",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "143,957,692",
+                "total aset": "1,029,676,376"
+            },
+            "liabilitas": {
+                "giro": "292,476,791",
+                "tabungan": "240,494,532",
+                "deposito": "221,517,956",
+                "total liabilitas": "875,678,206"
+            },
+            "ekuitas": {
+                "total ekuitas": "153,998,170"
+            },
+            "labarugi": {
+                "pendapatan bunga": "53,363,812",
+                "beban bunga": "21,109,094",
+                "pendapatan (beban) bunga bersih": "32,254,718",
+                "laba (rugi) bersih tahun berjalan": "18,074,496",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2024-11_New-SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 30,
+            "month": 11,
+            "month_name": "November",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "12,156,444",
+                "penempatan pada bank indonesia": "71,824,097",
+                "kredit yang diberikan": "739,539,053",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "147,147,373",
+                "total aset": "1,072,631,329"
+            },
+            "liabilitas": {
+                "giro": "316,323,283",
+                "tabungan": "243,038,087",
+                "deposito": "224,428,462",
+                "total liabilitas": "917,146,613"
+            },
+            "ekuitas": {
+                "total ekuitas": "155,484,716"
+            },
+            "labarugi": {
+                "pendapatan bunga": "58,805,693",
+                "beban bunga": "23,190,362",
+                "pendapatan (beban) bunga bersih": "35,615,331",
+                "laba (rugi) bersih tahun berjalan": "19,812,356",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2025-01_New_SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 1,
+            "month_name": "Januari",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "11,019,932",
+                "penempatan pada bank indonesia": "52,528,594",
+                "kredit yang diberikan": "749,824,433",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "143,990,330",
+                "total aset": "1,075,376,582"
+            },
+            "liabilitas": {
+                "giro": "297,051,165",
+                "tabungan": "250,615,389",
+                "deposito": "226,613,599",
+                "total liabilitas": "915,223,066"
+            },
+            "ekuitas": {
+                "total ekuitas": "160,153,516"
+            },
+            "labarugi": {
+                "pendapatan bunga": "5,476,555",
+                "beban bunga": "2,302,817",
+                "pendapatan (beban) bunga bersih": "3,173,738",
+                "laba (rugi) bersih tahun berjalan": "1,629,689",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2025-02_New SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 28,
+            "month": 2,
+            "month_name": "Februari",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "10,704,598",
+                "penempatan pada bank indonesia": "51,252,554",
+                "kredit yang diberikan": "741,993,473",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "154,089,755",
+                "total aset": "1,066,226,019"
+            },
+            "liabilitas": {
+                "giro": "298,625,898",
+                "tabungan": "251,101,837",
+                "deposito": "225,200,671",
+                "total liabilitas": "903,876,783"
+            },
+            "ekuitas": {
+                "total ekuitas": "162,349,236"
+            },
+            "labarugi": {
+                "pendapatan bunga": "10,484,887",
+                "beban bunga": "4,391,455",
+                "pendapatan (beban) bunga bersih": "6,093,432",
+                "laba (rugi) bersih tahun berjalan": "3,293,852",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2025-04_New SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 30,
+            "month": 4,
+            "month_name": "April",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "9,958,797",
+                "penempatan pada bank indonesia": "55,763,334",
+                "kredit yang diberikan": "757,579,040",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "152,039,615",
+                "total aset": "1,089,123,220"
+            },
+            "liabilitas": {
+                "giro": "328,823,781",
+                "tabungan": "255,315,780",
+                "deposito": "227,500,111",
+                "total liabilitas": "936,665,530"
+            },
+            "ekuitas": {
+                "total ekuitas": "152,457,690"
+            },
+            "labarugi": {
+                "pendapatan bunga": "21,576,731",
+                "beban bunga": "8,942,906",
+                "pendapatan (beban) bunga bersih": "12,633,825",
+                "laba (rugi) bersih tahun berjalan": "6,872,150",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2025-05_New_SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 5,
+            "month_name": "Mei",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "9,566,393",
+                "penempatan pada bank indonesia": "57,155,130",
+                "kredit yang diberikan": "755,446,296",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "145,928,136",
+                "total aset": "1,091,452,083"
+            },
+            "liabilitas": {
+                "giro": "319,643,756",
+                "tabungan": "253,418,883",
+                "deposito": "225,959,252",
+                "total liabilitas": "937,229,374"
+            },
+            "ekuitas": {
+                "total ekuitas": "154,222,709"
+            },
+            "labarugi": {
+                "pendapatan bunga": "26,973,550",
+                "beban bunga": "11,237,692",
+                "pendapatan (beban) bunga bersih": "15,735,858",
+                "laba (rugi) bersih tahun berjalan": "8,454,070",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2025-07_New SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 7,
+            "month_name": "Juli",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "10,267,703",
+                "penempatan pada bank indonesia": "90,683,252",
+                "kredit yang diberikan": "763,655,355",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "163,667,093",
+                "total aset": "1,167,312,117"
+            },
+            "liabilitas": {
+                "giro": "358,420,655",
+                "tabungan": "267,296,507",
+                "deposito": "254,951,184",
+                "total liabilitas": "1,008,939,450"
+            },
+            "ekuitas": {
+                "total ekuitas": "158,372,667"
+            },
+            "labarugi": {
+                "pendapatan bunga": "38,389,114",
+                "beban bunga": "16,193,803",
+                "pendapatan (beban) bunga bersih": "22,195,311",
+                "laba (rugi) bersih tahun berjalan": "11,870,495",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "LKP_BLN_2025-08_New-SEOJK9_IND.pdf",
+        "source_folder": "bni",
+        "metadata": {
+            "company": "bni",
+            "day": 31,
+            "month": 8,
+            "month_name": "Agustus",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "9,860,915",
+                "penempatan pada bank indonesia": "80,191,438",
+                "kredit yang diberikan": "768,603,159",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "166,148,100",
+                "total aset": "1,160,188,555"
+            },
+            "liabilitas": {
+                "giro": "366,549,411",
+                "tabungan": "264,464,228",
+                "deposito": "238,142,810",
+                "total liabilitas": "999,542,220"
+            },
+            "ekuitas": {
+                "total ekuitas": "160,646,335"
+            },
+            "labarugi": {
+                "pendapatan bunga": "44,039,797",
+                "beban bunga": "18,781,214",
+                "pendapatan (beban) bunga bersih": "25,258,583",
+                "laba (rugi) bersih tahun berjalan": "13,404,383",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Agustus 2024.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 8,
+            "month_name": "Agustus",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "1.497.299",
+                "penempatan pada bank indonesia": "24.212.778",
+                "kredit yang diberikan": "312.905.990",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "57.563.192",
+                "total aset": "456.372.915"
+            },
+            "liabilitas": {
+                "giro": "141.438.950",
+                "tabungan": "39.545.130",
+                "deposito": "192.899.525",
+                "total liabilitas": "424.699.353"
+            },
+            "ekuitas": {
+                "total ekuitas": "31.673.562"
+            },
+            "labarugi": {
+                "pendapatan bunga": "19.857.774",
+                "beban bunga": "11.987.075",
+                "pendapatan (beban) bunga bersih": "7.870.699",
+                "laba (rugi) bersih tahun berjalan": "1.805.593",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Agustus 2025.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 8,
+            "month_name": "Agustus",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "1,633,817",
+                "penempatan pada bank indonesia": "15,441,178",
+                "kredit yang diberikan": "325,271,554",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "66,963,842",
+                "total aset": "481,846,614"
+            },
+            "liabilitas": {
+                "giro": "159,219,445",
+                "tabungan": "44,255,431",
+                "deposito": "197,975,223",
+                "total liabilitas": "447,437,987"
+            },
+            "ekuitas": {
+                "total ekuitas": "34,408,627"
+            },
+            "labarugi": {
+                "pendapatan bunga": "23,548,810",
+                "beban bunga": "12,291,641",
+                "pendapatan (beban) bunga bersih": "11,257,169",
+                "laba (rugi) bersih tahun berjalan": "1,994,844",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "April 2024.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 30,
+            "month": 4,
+            "month_name": "April",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "2.086.741",
+                "penempatan pada bank indonesia": "30.728.642",
+                "kredit yang diberikan": "306.104.686",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "51.228.300",
+                "total aset": "450.530.633"
+            },
+            "liabilitas": {
+                "giro": "136.312.002",
+                "tabungan": "41.637.614",
+                "deposito": "180.342.484",
+                "total liabilitas": "420.100.695"
+            },
+            "ekuitas": {
+                "total ekuitas": "30.429.938"
+            },
+            "labarugi": {
+                "pendapatan bunga": "10.143.692",
+                "beban bunga": "5.973.435",
+                "pendapatan (beban) bunga bersih": "4.170.257",
+                "laba (rugi) bersih tahun berjalan": "983.802",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "April 2025.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 30,
+            "month": 4,
+            "month_name": "April",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "1,730,163",
+                "penempatan pada bank indonesia": "25,305,138",
+                "kredit yang diberikan": "316,539,754",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "55,610,682",
+                "total aset": "470,077,978"
+            },
+            "liabilitas": {
+                "giro": "156,800,657",
+                "tabungan": "42,855,851",
+                "deposito": "189,497,654",
+                "total liabilitas": "437,119,948"
+            },
+            "ekuitas": {
+                "total ekuitas": "32,958,030"
+            },
+            "labarugi": {
+                "pendapatan bunga": "10,914,637",
+                "beban bunga": "5,975,586",
+                "pendapatan (beban) bunga bersih": "4,939,051",
+                "laba (rugi) bersih tahun berjalan": "1,010,409",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Februari 2024.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 29,
+            "month": 2,
+            "month_name": "Februari",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "1.679.126",
+                "penempatan pada bank indonesia": "27.006.639",
+                "kredit yang diberikan": "301.243.637",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "55.777.323",
+                "total aset": "440.688.197"
+            },
+            "liabilitas": {
+                "giro": "134.557.569",
+                "tabungan": "41.394.667",
+                "deposito": "174.555.584",
+                "total liabilitas": "409.811.146"
+            },
+            "ekuitas": {
+                "total ekuitas": "30.877.051"
+            },
+            "labarugi": {
+                "pendapatan bunga": "5.117.413",
+                "beban bunga": "2.925.319",
+                "pendapatan (beban) bunga bersih": "2.192.094",
+                "laba (rugi) bersih tahun berjalan": "555.757",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Februari 2025.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 28,
+            "month": 2,
+            "month_name": "Februari",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "1,615,123",
+                "penempatan pada bank indonesia": "29,788,764",
+                "kredit yang diberikan": "314,088,436",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "53,593,161",
+                "total aset": "464,718,713"
+            },
+            "liabilitas": {
+                "giro": "147,760,957",
+                "tabungan": "41,427,395",
+                "deposito": "192,842,375",
+                "total liabilitas": "431,755,247"
+            },
+            "ekuitas": {
+                "total ekuitas": "32,963,466"
+            },
+            "labarugi": {
+                "pendapatan bunga": "4,796,987",
+                "beban bunga": "2,896,218",
+                "pendapatan (beban) bunga bersih": "1,900,769",
+                "laba (rugi) bersih tahun berjalan": "251,967",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Januari 2024.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 1,
+            "month_name": "Januari",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "1.645.549",
+                "penempatan pada bank indonesia": "30.478.186",
+                "kredit yang diberikan": "295.571.481",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "51.752.907",
+                "total aset": "433.522.500"
+            },
+            "liabilitas": {
+                "giro": "135.591.600",
+                "tabungan": "41.679.362",
+                "deposito": "166.980.563",
+                "total liabilitas": "403.037.001"
+            },
+            "ekuitas": {
+                "total ekuitas": "30.485.499"
+            },
+            "labarugi": {
+                "pendapatan bunga": "2.627.163",
+                "beban bunga": "1.503.125",
+                "pendapatan (beban) bunga bersih": "1.124.038",
+                "laba (rugi) bersih tahun berjalan": "275.524",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Januari 2025.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 1,
+            "month_name": "Januari",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "1,804,790",
+                "penempatan pada bank indonesia": "21,418,615",
+                "kredit yang diberikan": "312,417,896",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "56,190,816",
+                "total aset": "454,026,146"
+            },
+            "liabilitas": {
+                "giro": "152,697,401",
+                "tabungan": "41,988,876",
+                "deposito": "179,780,830",
+                "total liabilitas": "421,248,969"
+            },
+            "ekuitas": {
+                "total ekuitas": "32,777,177"
+            },
+            "labarugi": {
+                "pendapatan bunga": "2,361,257",
+                "beban bunga": "1,507,465",
+                "pendapatan (beban) bunga bersih": "853,792",
+                "laba (rugi) bersih tahun berjalan": "101,667",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Juli 2024.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 7,
+            "month_name": "Juli",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "1.573.126",
+                "penempatan pada bank indonesia": "31.037.338",
+                "kredit yang diberikan": "313.460.908",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "50.740.969",
+                "total aset": "457.864.961"
+            },
+            "liabilitas": {
+                "giro": "145.686.132",
+                "tabungan": "40.314.430",
+                "deposito": "188.669.142",
+                "total liabilitas": "426.646.338"
+            },
+            "ekuitas": {
+                "total ekuitas": "31.218.623"
+            },
+            "labarugi": {
+                "pendapatan bunga": "17.279.457",
+                "beban bunga": "10.462.644",
+                "pendapatan (beban) bunga bersih": "6.816.813",
+                "laba (rugi) bersih tahun berjalan": "1.602.512",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Juli 2025.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 7,
+            "month_name": "Juli",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "1,645,372",
+                "penempatan pada bank indonesia": "19,114,373",
+                "kredit yang diberikan": "327,587,746",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "61,478,631",
+                "total aset": "481,003,437"
+            },
+            "liabilitas": {
+                "giro": "155,457,443",
+                "tabungan": "44,140,746",
+                "deposito": "201,225,808",
+                "total liabilitas": "446,945,011"
+            },
+            "ekuitas": {
+                "total ekuitas": "34,058,426"
+            },
+            "labarugi": {
+                "pendapatan bunga": "19,962,556",
+                "beban bunga": "10,748,164",
+                "pendapatan (beban) bunga bersih": "9,214,392",
+                "laba (rugi) bersih tahun berjalan": "1,797,895",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Mei 2024.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 5,
+            "month_name": "Mei",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "1.837.601",
+                "penempatan pada bank indonesia": "24.930.879",
+                "kredit yang diberikan": "308.208.282",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "57.071.617",
+                "total aset": "451.349.698"
+            },
+            "liabilitas": {
+                "giro": "140.296.853",
+                "tabungan": "40.059.622",
+                "deposito": "180.426.621",
+                "total liabilitas": "420.641.109"
+            },
+            "ekuitas": {
+                "total ekuitas": "30.708.589"
+            },
+            "labarugi": {
+                "pendapatan bunga": "12.456.527",
+                "beban bunga": "7.419.724",
+                "pendapatan (beban) bunga bersih": "5.036.803",
+                "laba (rugi) bersih tahun berjalan": "1.160.253",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Mei 2025.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 5,
+            "month_name": "Mei",
+            "year": 2025
+        },
+        "data": {
+            "aset": {
+                "kas": "1,730,755",
+                "penempatan pada bank indonesia": "19,192,253",
+                "kredit yang diberikan": "318,926,944",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "63,633,425",
+                "total aset": "475,793,688"
+            },
+            "liabilitas": {
+                "giro": "152,041,116",
+                "tabungan": "43,111,531",
+                "deposito": "202,630,730",
+                "total liabilitas": "442,603,245"
+            },
+            "ekuitas": {
+                "total ekuitas": "33,190,443"
+            },
+            "labarugi": {
+                "pendapatan bunga": "13,741,379",
+                "beban bunga": "7,552,961",
+                "pendapatan (beban) bunga bersih": "6,188,418",
+                "laba (rugi) bersih tahun berjalan": "1,198,704",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "November 2024.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 30,
+            "month": 11,
+            "month_name": "November",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "1,619,639",
+                "penempatan pada bank indonesia": "18,092,279",
+                "kredit yang diberikan": "311,782,667",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "56,953,321",
+                "total aset": "449,358,347"
+            },
+            "liabilitas": {
+                "giro": "148,431,828",
+                "tabungan": "41,207,320",
+                "deposito": "176,580,566",
+                "total liabilitas": "417,361,558"
+            },
+            "ekuitas": {
+                "total ekuitas": "31,996,789"
+            },
+            "labarugi": {
+                "pendapatan bunga": "27,139,231",
+                "beban bunga": "16,346,943",
+                "pendapatan (beban) bunga bersih": "10,792,288",
+                "laba (rugi) bersih tahun berjalan": "2,403,473",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    },
+    {
+        "file": "Oktober 2024.pdf",
+        "source_folder": "btn",
+        "metadata": {
+            "company": "btn",
+            "day": 31,
+            "month": 10,
+            "month_name": "Oktober",
+            "year": 2024
+        },
+        "data": {
+            "aset": {
+                "kas": "1.523.510",
+                "penempatan pada bank indonesia": "21.522.250",
+                "kredit yang diberikan": "313.441.043",
+                "kredit dan pembiayaan yang diberikan": null,
+                "surat berharga yang dimiliki": "57.088.874",
+                "total aset": "454.446.042"
+            },
+            "liabilitas": {
+                "giro": "150.585.366",
+                "tabungan": "41.372.833",
+                "deposito": "180.142.770",
+                "total liabilitas": "422.605.362"
+            },
+            "ekuitas": {
+                "total ekuitas": "31.840.680"
+            },
+            "labarugi": {
+                "pendapatan bunga": "24.797.482",
+                "beban bunga": "14.929.650",
+                "pendapatan (beban) bunga bersih": "9.867.832",
+                "laba (rugi) bersih tahun berjalan": "2.200.249",
+                "laba (rugi) bersih periode berjalan": null
+            }
+        }
+    }
+]
